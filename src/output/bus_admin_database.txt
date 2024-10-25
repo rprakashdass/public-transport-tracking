@@ -1,0 +1,10 @@
+Bus id: 1001
+Admin Name: ajay kumar RM G
+Address: Coimbatore
+Bus Name: 22A CBE TO ERODE
+------------------------
+Bus id: 1001
+Admin Name: Gowthaman M
+Address: coimbatore
+Bus Name: 22K AM Nagar to PM Nagar
+------------------------
