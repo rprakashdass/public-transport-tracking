@@ -63,8 +63,7 @@ int main() {
                       "name TEXT NOT NULL,"
                       "email TEXT NOT NULL,"
                       "passcode TEXT NOT NULL,"
-                      "office_zone TEXT NOT NULL,"
-                      "office_address TEXT NOT NULL,"
+                      "office_id TEXT NOT NULL,"
                       "loggedin_at DATETIME DEFAULT CURRENT_TIMESTAMP"
                       ");";
 
@@ -75,7 +74,7 @@ int main() {
                       "passcode TEXT NOT NULL,"
                       "home_address TEXT NOT NULL,"
                       "loggedin_at DATETIME DEFAULT CURRENT_TIMESTAMP,"
-                      "route_id INTEGER NOT NULL,"
+                      "route_id INTEGER,"
                       "FOREIGN KEY (route_id) REFERENCES routes(id)"
                       ");";
 

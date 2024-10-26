@@ -30,9 +30,9 @@ void appAdmin(){
     cin >> choice;
 
     if(choice == 1){
-        if(admin.register_admin()) cout << "Successfully registerd!" << endl;
+        if(admin.register_admin()) cout << "Successfully registerd!\n" << endl;
     } else {
-        if(admin.login_admin()) cout << "Logged in Successfully!" << endl;
+        if(admin.login_admin()) cout << "Logged in Successfully!\n" << endl;
     }
     
 }
