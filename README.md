@@ -4,7 +4,6 @@
 The **Public Transport Tracking System** is a console-based C++ project designed to help developers learn how to:
 - Connect to a **database** from C++ applications.
 - Organize and manage clean, maintainable C++ code.
-- Implement practical CRUD operations on data for tracking and managing transport routes.
   
 This project provides educational value for beginner C++ developers aiming to bridge the gap between programming logic and data management through database integration.
 
